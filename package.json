@@ -1,0 +1,17 @@
+{
+  "name": "sips-of-borongan",
+  "version": "1.0.0",
+  "description": "Social cafe review app",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "cd backend && node server.js",
+    "dev": "cd backend && nodemon server.js",
+    "install": "cd backend && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "22.x"
+  }
+}
